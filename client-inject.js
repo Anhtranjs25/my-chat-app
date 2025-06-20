@@ -1,6 +1,6 @@
 (() => {
     const iframe = document.createElement("iframe");
-    iframe.src = "https://your-domain.com/widget.html"; // thay bằng domain thật
+    iframe.src = "https://my-chat-app-l6rp.onrender.com"; // thay bằng domain thật
     iframe.style = `
       position: fixed;
       bottom: 20px;
